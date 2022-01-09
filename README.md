@@ -1,16 +1,4 @@
-# smart_shop
+# Ecommerance_flutter_ui
 
-A new Flutter application.
+The “MyShop” is e-Commerce UI Kit has the goal to help you to save time with the frontend development. You can use this template to build your apps for Android and iOS in Flutter. The UI Kit includes all resources you need to reuse the components, it includes 20 screens, assets, icons, and fonts.It is built using latest flutter version with null safety support
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
