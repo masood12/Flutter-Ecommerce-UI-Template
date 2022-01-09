@@ -14,4 +14,4 @@ The “MyShop” is e-Commerce UI Kit has the goal to help you to save time with
 - Easy to customize
 
 
-<img width="964" alt="login_screens" src="https://github.com/masood12/Flutter-Ecommerce-UI-Template/blob/master/assets/promotional/login_page.png">
+<img width="1100" alt="login_screens" src="https://github.com/masood12/Flutter-Ecommerce-UI-Template/blob/master/assets/promotional/login_page.png">
