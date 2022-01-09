@@ -12,3 +12,6 @@ The “MyShop” is e-Commerce UI Kit has the goal to help you to save time with
 - Dark and light theme
 - Uses Animation Controllers
 - Easy to customize
+
+
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/masood12/Flutter-Ecommerce-UI-Template/blob/master/assets/promotional/login_page.png”>
